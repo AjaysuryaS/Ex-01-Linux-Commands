@@ -171,7 +171,8 @@ Syntax: chown owner_name file_name
 The make command is used for building and maintaining group of program.
 
 Syntax: make [-f makefile][options]…….[targets]….
-![image](https://github.com/AjaysuryaS/Ex-01-Linux-Commands/assets/114158396/5406a091-66d5-41e2-b23a-43aabac57a6b)
+![image](https://github.com/AjaysuryaS/Ex-01-Linux-Commands/assets/114158396/ea9c25d0-11c9-4236-bf79-2adb9b0b95f5)
+
 
 
 ### 21)	ifconfig Command
